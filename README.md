@@ -18,6 +18,13 @@ Powered by state-of-the-art Python programming and OpenCV, our system utilizes c
 
 ## Python Libraries
 
+  Make sure you have the following Python libraries installed:
+
+- OpenCV
+- Pyttsx3
+- Playsound
+- Wolframalpha
+
 ## Setup
 
 - Install OpenCV2
