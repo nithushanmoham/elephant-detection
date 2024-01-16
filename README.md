@@ -16,6 +16,8 @@ Powered by state-of-the-art Python programming and OpenCV, our system utilizes c
 
 ![533551_1_En_4_Fig7_HTML](https://github.com/nithushanmoham/elephant-detection/assets/106969157/5128c1c0-e592-4b79-b092-83ad7e7ed633)
 
+## Python Libraries
+
 ## Setup
 
 - Install OpenCV2
