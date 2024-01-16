@@ -1,4 +1,4 @@
-# elephant-detection
+# Elephant-Detection
 
 ## Introduction
 
